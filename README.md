@@ -1,5 +1,5 @@
 The present repository includes two files:
-Both files were designed to run in Google Colaboratory online Python environment
+Both files were designed to run using the Google Colaboratory online Python environment
 
 1.- The file nilearn_plot_connectome.py is a script that plots the Power atlas (a brain atlas comprising 264 brain nodes). 
 Each node of this atlas is drawn in blue color except the nodes comprising the DAN, that are printed in red. A set of edges are printed as well. Specifically,
