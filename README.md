@@ -9,5 +9,5 @@ the edges that most significantly differentiate between children with and withou
 presented in the paper "Distinct connectivity patterns between perception and attention-related brain networks characterize dyslexia: machine learning applied to resting-state fMRI",
 that is to be published in the journal cortex. A DOI identification number for this paper is to be created soon.
 
-txt files ending with 2 are between_network connectivity matrices (they are larger)
-txt files with no number are within_network connectivity matrices (smaller)
+a) txt files ending with 2 are between_network connectivity matrices (they are larger).
+b) txt files with no number are within_network connectivity matrices (smaller).
