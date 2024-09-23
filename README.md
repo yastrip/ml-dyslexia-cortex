@@ -1,6 +1,6 @@
 The present repository includes all data and code utilized for the paper "Distinct connectivity patterns between perception and attention-related brain networks characterize dyslexia: machine learning applied to resting-state fMRI". The manuscript is to be published in the journal "Cortex". A DOI identification number for this paper is to be created and added 
 to this repository soon.
-This repository includes A) two .py files, B) one .sav file and C) a set of .txt files.
+This repository includes A) two .py files, B) one .sav file and C) a set of .txt and .zip files.
 
 A) Python scripts (.py): Both .py files were designed to run using the Google Colaboratory online Python environment:
 
@@ -14,7 +14,7 @@ A) Python scripts (.py): Both .py files were designed to run using the Google Co
 
 B) Behavioral data (.sav): This file includes the anonymized demographic and cognitive data utilized in the statistical analysis reported in the paper.
 
-C) The preprocessed neuroimaging data utilized for the creation of the ML models comprises the .txt files:
+C) The preprocessed neuroimaging data utilized for the creation of the ML models comprises the .txt and .zip files:
 
-   I.- Txt files ending with 2 are between_network connectivity matrices (they are larger and have been compressed to two zip files).
-   II.- Txt files with no number are within_network connectivity matrices (smaller and not compressed).
+   I.- The .zip files include a set of .txt files ending with 2. These are between_network connectivity matrices (they are larger and had to be compressed to zip).
+   II.- The .txt files with no number at the end are within_network connectivity matrices (smaller, it was not required to compress them before uploading here).
